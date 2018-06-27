@@ -4,4 +4,4 @@ A list of personal projects for whenever I have time. If you do any of them, let
 
 # Ideas:
 
-* Implement a Feed-Forward control on MarlinFW to deal with bowden tubes transport delay.
+- [ ] Implement a Feed-Forward control on MarlinFW to deal with bowden tubes transport delay.
