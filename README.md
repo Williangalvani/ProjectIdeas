@@ -8,4 +8,5 @@ A list of personal projects for whenever I have time. If you do any of them, let
 - [ ] Build LARC's IEEE Open task environment on V-REP.
 - [ ] Clean up my GitHub.
 - [ ] Review my repositories documentation.
-
+- [ ] Detail the Realflight 8 + Ardupilot SITL setup on Windows + WSL
+- [ ] Document using an arduino Uno as ppm->joystick converter
