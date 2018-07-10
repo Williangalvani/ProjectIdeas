@@ -10,3 +10,4 @@ A list of personal projects for whenever I have time. If you do any of them, let
 - [ ] Review my repositories documentation.
 - [ ] Detail the Realflight 8 + Ardupilot SITL setup on Windows + WSL
 - [ ] Document using an arduino Uno as ppm->joystick converter
+- [ ] Add WebRTC support on OctoPrint
